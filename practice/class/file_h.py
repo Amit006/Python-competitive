@@ -1,0 +1,8 @@
+inp = input('name of the file')
+f0 = open(inp, 'w')
+# f_data = f0.readline()
+# print("******previous contain of the file****")
+# print('containd of the file',f_data)
+rd = input("write Someting:")
+f0.write(rd)
+f0.close()

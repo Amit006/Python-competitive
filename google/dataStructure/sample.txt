@@ -1,0 +1,4 @@
+hi there i am amit nayek doing python file module stuff "  its a sample file where we can done so much things hh  hi there  hh  
+
+now we are edeting on the vim tool which is besicaly one linux tools
+

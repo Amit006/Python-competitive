@@ -1,0 +1,23 @@
+print ('sandy programme')
+i =0
+a=int(input('Enter the number order:')
+for i in range(10):
+    print("/",end=" ")
+    for j in a -1:
+        print("/")
+
+
+
+n = int(input("enter the number you want to devide:"))
+g = int(input("eneter the number of qustion:"))
+
+if (n && g > 1):
+    print("entering if condition")
+    for i in range(g):
+        li = int(input("enter the value:"))
+        ri = int(input("enter the 2nd value:"))
+
+
+}
+else:
+pass

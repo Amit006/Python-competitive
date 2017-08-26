@@ -1,0 +1,8 @@
+import time
+import string
+import string.ascii_lowercase
+
+for i in range(0,10,2):
+    print(i);
+    time.sleep(3000)
+
